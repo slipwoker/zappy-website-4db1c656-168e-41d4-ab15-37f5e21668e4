@@ -32,8 +32,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- Phone: 0537175760
-- Phone (tel): tel:0537175760
+- Phone: 0537165760
+- Phone (tel): tel:0537165760
 
 ### Contact form
 - URL: https://global-work-israel.zappy5.app
