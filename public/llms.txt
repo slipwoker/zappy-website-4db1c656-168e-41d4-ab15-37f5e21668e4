@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://global-work-israel.zappy5.app
 סוכנות כוח אדם מקצועית לאזרחי אזרבייג&#39;ן. התאמת משרות בתעשייה, ניקיון, בניין וסיעוד. שקיפות מלאה וליווי צמוד. דמי פתיחת תיק 100$ בלבד. התחילו עוד היום!
 
 ### תודה - Global Work Israel
-https://example.com/thank-you
+https://global-work-israel.zappy5.app/thank-you
 Global Work Israel - תודה - Global Work Israel
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://global-work-israel.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://global-work-israel.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://global-work-israel.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://global-work-israel.zappy5.app
+- Endpoint: https://global-work-israel.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Employment Agency / Labor Recruitment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://global-work-israel.zappy5.app/sitemap.xml
+- Robots: https://global-work-israel.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://global-work-israel.zappy5.app/llms-full.txt

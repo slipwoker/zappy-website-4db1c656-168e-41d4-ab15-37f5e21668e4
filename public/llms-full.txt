@@ -2,13 +2,13 @@
 
 A professional labor recruitment and mediation service helping citizens of Azerbaijan apply for work opportunities in Israel across a wide range of industries including manufacturing, cleaning, hospitality, restaurants, warehousing, construction, agriculture, caregiving, and general services. The service charges a $100 file-opening fee that covers candidate profiling, document review, job matching, application preparation, and ongoing status updates. The brand emphasizes transparency, professionalism, and legal compliance, clearly disclaiming that the fee does not guarantee employment, visa approval, or entry to Israel.
 
-Source: https://example.com
+Source: https://global-work-israel.zappy5.app
 
 ---
 
 ## מצאו עבודה בישראל בקלות — Global Work Israel
 
-URL: https://example.com
+URL: https://global-work-israel.zappy5.app
 Description: סוכנות כוח אדם מקצועית לאזרחי אזרבייג&#39;ן. התאמת משרות בתעשייה, ניקיון, בניין וסיעוד. שקיפות מלאה וליווי צמוד. דמי פתיחת תיק 100$ בלבד. התחילו עוד היום!
 
 מצאו עבודה בישראל בקלות — Global Work Israel
@@ -772,7 +772,7 @@ Global Work Israel היא סוכנות השמה מובילה המחברת בין
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://global-work-israel.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1038,7 +1038,7 @@ Global Work Israel היא סוכנות השמה מובילה המחברת בין
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://global-work-israel.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1313,7 +1313,7 @@ Global Work Israel היא סוכנות השמה מובילה המחברת בין
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://global-work-israel.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1607,7 +1607,7 @@ Global Work Israel היא סוכנות השמה מובילה המחברת בין
 
 ## תודה - Global Work Israel
 
-URL: https://example.com/thank-you
+URL: https://global-work-israel.zappy5.app/thank-you
 Description: Global Work Israel - תודה - Global Work Israel
 
 תודה - Global Work Israel
