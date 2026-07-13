@@ -1,0 +1,79 @@
+# Global Work Israel — Generative Engine Optimization Map
+
+> A professional labor recruitment and mediation service helping citizens of Azerbaijan apply for work opportunities in Israel across a wide range of industries including manufacturing, cleaning, hospitality, restaurants, warehousing, construction, agriculture, caregiving, and general services. The service charges a $100 file-opening fee that covers candidate profiling, document review, job matching, application preparation, and ongoing status updates. The brand emphasizes transparency, professionalism, and legal compliance, clearly disclaiming that the fee does not guarantee employment, visa approval, or entry to Israel.
+
+---
+
+## Pages
+
+### בית
+https://global-work-israel-4db1c656.zappy5.app
+סוכנות כוח אדם מקצועית לאזרחי אזרבייג&#39;ן. התאמת משרות בתעשייה, ניקיון, בניין וסיעוד. שקיפות מלאה וליווי צמוד. דמי פתיחת תיק 100$ בלבד. התחילו עוד היום!
+
+### תודה - Global Work Israel
+https://global-work-israel-4db1c656.zappy5.app/thank-you
+Global Work Israel - תודה - Global Work Israel
+
+## Legal & Policy
+
+### Privacy Policy
+https://global-work-israel-4db1c656.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://global-work-israel-4db1c656.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://global-work-israel-4db1c656.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://global-work-israel-4db1c656.zappy5.app
+- Endpoint: https://global-work-israel-4db1c656.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Global Work Israel
+A professional labor recruitment and mediation service helping citizens of Azerbaijan apply for work opportunities in Israel across a wide range of industries including manufacturing, cleaning, hospitality, restaurants, warehousing, construction, agriculture, caregiving, and general services. The service charges a $100 file-opening fee that covers candidate profiling, document review, job matching, application preparation, and ongoing status updates. The brand emphasizes transparency, professionalism, and legal compliance, clearly disclaiming that the fee does not guarantee employment, visa approval, or entry to Israel.
+
+## Services/Products
+- פתיחת פרופיל מועמד
+- בדיקת מסמכים ראשונית
+- התאמה למשרות רלוונטיות
+- הכנת הבקשה
+- ליווי מול גורמים רלוונטיים בישראל ובאזרבייג'ן
+- עדכון סטטוס לאורך התהליך
+
+## Target Audience
+- תושבי אזרבייג'ן המעוניינים לעבוד בישראל
+- תושבי אזרבייג'ן המעוניינים בעבודה
+- סטודנטים אזרבייג'נים בישראל
+- אנשי מקצוע אזרבייג'נים עם מיומנויות טכניות
+
+## Industry
+Employment Agency / Labor Recruitment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://global-work-israel-4db1c656.zappy5.app/sitemap.xml
+- Robots: https://global-work-israel-4db1c656.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://global-work-israel-4db1c656.zappy5.app/llms-full.txt
